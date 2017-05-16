@@ -27,6 +27,7 @@ exclude_paths:
 - "**.csv"
 - "**.in"
 - "**.md"
+- "**.png"
 - "**.pyt"
 - "**.rst"
 - "**.sh"
