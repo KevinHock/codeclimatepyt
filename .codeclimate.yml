@@ -15,9 +15,11 @@ engines:
         enabled: false
 ratings:
   paths:
-  - "pyt/**"
+  - "pyt/*"
   - "**.py"
 exclude_paths:
-- "**/tests/*"
+- "example/*"
+- "profiling/*"
+- "tests/*"
 - "**/trigger_definitions/*"
 - "**.pyt"

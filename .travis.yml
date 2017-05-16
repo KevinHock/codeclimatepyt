@@ -1,4 +1,10 @@
 language: python
 python:
   - "3.6"
-script: python -m tests
+install:
+  - pip install codeclimate-test-reporter
+script:
+  - python -m tests
+  - coverage run -m tests
+after_script:
+  - codeclimate-test-reporter
