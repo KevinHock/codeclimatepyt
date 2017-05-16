@@ -18,8 +18,8 @@ ratings:
   - "pyt/*"
   - "**.py"
 exclude_paths:
-- "example/*"
-- "profiling/*"
-- "tests/*"
+- "example/**"
+- "profiling/**"
+- "tests/**"
 - "**/trigger_definitions/*"
 - "**.pyt"
