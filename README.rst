@@ -1,8 +1,8 @@
-.. image:: https://travis-ci.org/KevinHock/pyt.svg?branch=master
-    :target: https://travis-ci.org/KevinHock/pyt
+.. image:: https://travis-ci.org/KevinHock/codeclimatepyt.svg?branch=master
+    :target: https://travis-ci.org/KevinHock/codeclimatepyt
 
-.. image:: https://codeclimate.com/github/KevinHock/pyt/badges/coverage.svg
-    :target: https://codeclimate.com/github/KevinHock/pyt/coverage
+.. image:: https://codeclimate.com/github/KevinHock/codeclimatepyt/badges/coverage.svg
+    :target: https://codeclimate.com/github/KevinHock/codeclimatepyt/coverage
 
 Python Taint
 ============
